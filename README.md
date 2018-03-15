@@ -5,6 +5,11 @@
 Version 1.0.1
 March 2018
 
+## Premise
+This application was originally based upon an Android App I created for my mobile development certification at the University of Toronto. The "Foodie Client" was an idea I maintained to help out dietitians create meal plans. The app allows a dietitian as user to enter in meals with calorie information. Then a user would be able to use the app to get a random meal.
+
+![Screenshot](Screen1.jpg)
+
 ##  "Framework-Level" / Infrastructure Technologies Employed
 
 ### Principle Tech
