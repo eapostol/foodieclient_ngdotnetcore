@@ -10,6 +10,8 @@ This application was originally based upon an Android App I created for my mobil
 
 I then took this project idea over to my work at Red Academy, for continued development as a potential project assignment for my students (for the Front End)
 
+![Screenshot](../Screen1.jpg)
+
 ##  "Framework-Level" / Infrastructure Technologies Employed
 
 ### Principle Tech
